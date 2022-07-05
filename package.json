@@ -1,0 +1,16 @@
+{
+  "name": "prisma-postgresql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bruno Costa Prado",
+  "license": "MIT",
+  "devDependencies": {
+    "prisma": "^4.0.0"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.0.0"
+  },
+  "scripts": {
+    "dev": "ts-node src/index.ts"
+  }
+}
